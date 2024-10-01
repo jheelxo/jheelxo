@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jheelxo
 - 👀 I’m interested in using Machine Learning and Deep Learning techniques for statistical modelling and public policy evaluation within economics.
-- 📫 How to reach me dasdigangana99@gmail.com or digangana.das@dauphine.eu
+- 📫 How to reach me dasdigangana99@gmail.com or digangana.das@nhh.no
 - ⚡ Fun fact: I learnt to code in python in October 2022 from the "print hello world" level. xD
 
 <!---
